@@ -1,0 +1,6 @@
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\NightLife\bin\Debug\NightLife.exe.config
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\NightLife\bin\Debug\NightLife.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\NightLife\bin\Debug\NightLife.pdb
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\NightLife\obj\Debug\NightLife.csprojResolveAssemblyReference.cache
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\NightLife\obj\Debug\NightLife.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\NightLife\obj\Debug\NightLife.pdb

@@ -1,0 +1,6 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ReplaceAtag\bin\Debug\ReplaceAtag.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ReplaceAtag\bin\Debug\ReplaceAtag.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ReplaceAtag\bin\Debug\ReplaceAtag.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ReplaceAtag\obj\Debug\ReplaceAtag.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ReplaceAtag\obj\Debug\ReplaceAtag.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ReplaceAtag\obj\Debug\ReplaceAtag.pdb

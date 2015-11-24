@@ -1,0 +1,5 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\FillTheMatrix2\bin\Debug\FillTheMatrix2.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\FillTheMatrix2\bin\Debug\FillTheMatrix2.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\FillTheMatrix2\bin\Debug\FillTheMatrix2.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\FillTheMatrix2\obj\Debug\FillTheMatrix2.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\FillTheMatrix2\obj\Debug\FillTheMatrix2.pdb

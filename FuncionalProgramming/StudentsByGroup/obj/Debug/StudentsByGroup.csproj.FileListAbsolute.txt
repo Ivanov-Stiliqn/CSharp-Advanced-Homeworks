@@ -1,0 +1,8 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\bin\Debug\StudentsByGroup.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\bin\Debug\StudentsByGroup.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\bin\Debug\StudentsByGroup.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\obj\Debug\StudentsByGroup.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\obj\Debug\StudentsByGroup.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\obj\Debug\StudentsByGroup.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByGroup\bin\Debug\ClassStudent.pdb

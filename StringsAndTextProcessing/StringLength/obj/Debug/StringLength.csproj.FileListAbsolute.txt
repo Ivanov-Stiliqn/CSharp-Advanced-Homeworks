@@ -1,0 +1,5 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb

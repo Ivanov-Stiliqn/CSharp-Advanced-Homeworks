@@ -1,0 +1,8 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\bin\Debug\StudentsByFirstAndLastName.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\bin\Debug\StudentsByFirstAndLastName.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\bin\Debug\StudentsByFirstAndLastName.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\obj\Debug\StudentsByFirstAndLastName.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\obj\Debug\StudentsByFirstAndLastName.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\obj\Debug\StudentsByFirstAndLastName.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByFirstAndLastName\bin\Debug\ClassStudent.pdb

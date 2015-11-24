@@ -1,0 +1,6 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ExtractLetters\bin\Debug\ExtractLetters.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ExtractLetters\bin\Debug\ExtractLetters.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ExtractLetters\bin\Debug\ExtractLetters.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ExtractLetters\obj\Debug\SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ExtractLetters\obj\Debug\ExtractLetters.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\ExtractLetters\obj\Debug\ExtractLetters.pdb

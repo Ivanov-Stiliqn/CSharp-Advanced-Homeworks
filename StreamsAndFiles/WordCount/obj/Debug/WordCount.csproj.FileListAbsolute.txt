@@ -1,0 +1,6 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\WordCount\bin\Debug\WordCount.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\WordCount\bin\Debug\WordCount.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\WordCount\bin\Debug\WordCount.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\WordCount\obj\Debug\WordCount.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\WordCount\obj\Debug\WordCount.pdb

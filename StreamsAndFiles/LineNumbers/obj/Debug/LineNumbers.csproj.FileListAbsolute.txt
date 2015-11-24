@@ -1,0 +1,5 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\LineNumbers\bin\Debug\LineNumbers.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\LineNumbers\bin\Debug\LineNumbers.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\LineNumbers\bin\Debug\LineNumbers.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\LineNumbers\obj\Debug\LineNumbers.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\LineNumbers\obj\Debug\LineNumbers.pdb

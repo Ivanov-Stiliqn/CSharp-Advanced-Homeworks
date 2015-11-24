@@ -1,0 +1,6 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\ArraysListsStacksQueues\obj\Debug\ArraysListsStacksQueues.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\ArraysListsStacksQueues\obj\Debug\ArraysListsStacksQueues.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\ArraysListsStacksQueues\obj\Debug\ArraysListsStacksQueues.pdb

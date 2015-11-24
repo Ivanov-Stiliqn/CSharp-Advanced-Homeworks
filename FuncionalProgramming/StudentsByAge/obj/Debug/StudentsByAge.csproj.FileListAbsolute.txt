@@ -1,0 +1,7 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\obj\Debug\StudentsByAge.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\obj\Debug\StudentsByAge.pdb

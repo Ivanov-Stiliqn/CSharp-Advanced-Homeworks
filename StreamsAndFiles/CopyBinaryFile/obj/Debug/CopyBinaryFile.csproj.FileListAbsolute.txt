@@ -1,0 +1,6 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\CopyBinaryFile\bin\Debug\CopyBinaryFile.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\CopyBinaryFile\bin\Debug\CopyBinaryFile.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\CopyBinaryFile\bin\Debug\CopyBinaryFile.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\CopyBinaryFile\obj\Debug\CopyBinaryFile.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\CopyBinaryFile\obj\Debug\CopyBinaryFile.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StreamsAndFiles\CopyBinaryFile\obj\Debug\CopyBinaryFile.pdb

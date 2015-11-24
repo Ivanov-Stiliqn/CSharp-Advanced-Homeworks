@@ -1,0 +1,5 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\Methods\LastDigitAsNumber\bin\Debug\LastDigitAsNumber.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\Methods\LastDigitAsNumber\bin\Debug\LastDigitAsNumber.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\Methods\LastDigitAsNumber\bin\Debug\LastDigitAsNumber.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\Methods\LastDigitAsNumber\obj\Debug\LastDigitAsNumber.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\Methods\LastDigitAsNumber\obj\Debug\LastDigitAsNumber.pdb

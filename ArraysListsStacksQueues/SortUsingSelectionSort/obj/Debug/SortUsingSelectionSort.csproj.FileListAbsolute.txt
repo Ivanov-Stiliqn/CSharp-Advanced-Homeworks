@@ -1,0 +1,9 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\SortUsingSelectionSort\bin\Debug\SortUsingSelectionSort.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\SortUsingSelectionSort\bin\Debug\SortUsingSelectionSort.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\SortUsingSelectionSort\bin\Debug\SortUsingSelectionSort.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\SortUsingSelectionSort\obj\Debug\SortUsingSelectionSort.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\SortUsingSelectionSort\obj\Debug\SortUsingSelectionSort.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\SortArrayOfNumbers\SortUsingSelectionSort\obj\Debug\SortUsingSelectionSort.pdb
+C:\Users\AboveAll\Documents\Visual Studio 2013\Projects\ArraysListsStacksQueues\SortUsingSelectionSort\bin\Debug\SortUsingSelectionSort.exe.config
+C:\Users\AboveAll\Documents\Visual Studio 2013\Projects\ArraysListsStacksQueues\SortUsingSelectionSort\obj\Debug\SortUsingSelectionSort.exe
+C:\Users\AboveAll\Documents\Visual Studio 2013\Projects\ArraysListsStacksQueues\SortUsingSelectionSort\obj\Debug\SortUsingSelectionSort.pdb

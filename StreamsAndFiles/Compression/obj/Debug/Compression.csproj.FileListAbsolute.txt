@@ -1,0 +1,6 @@
+C:\Users\AboveAll\documents\visual studio 2013\Projects\StreamsAndFiles\Compression\bin\Debug\Compression.exe.config
+C:\Users\AboveAll\documents\visual studio 2013\Projects\StreamsAndFiles\Compression\bin\Debug\Compression.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\StreamsAndFiles\Compression\bin\Debug\Compression.pdb
+C:\Users\AboveAll\documents\visual studio 2013\Projects\StreamsAndFiles\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+C:\Users\AboveAll\documents\visual studio 2013\Projects\StreamsAndFiles\Compression\obj\Debug\Compression.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\StreamsAndFiles\Compression\obj\Debug\Compression.pdb

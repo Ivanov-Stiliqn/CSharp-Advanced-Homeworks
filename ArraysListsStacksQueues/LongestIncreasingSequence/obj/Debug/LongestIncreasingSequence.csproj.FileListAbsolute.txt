@@ -1,0 +1,6 @@
+C:\Users\AboveAll\documents\visual studio 2013\Projects\SortArrayOfNumbers\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+C:\Users\AboveAll\documents\visual studio 2013\Projects\SortArrayOfNumbers\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\SortArrayOfNumbers\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+C:\Users\AboveAll\documents\visual studio 2013\Projects\SortArrayOfNumbers\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\AboveAll\documents\visual studio 2013\Projects\SortArrayOfNumbers\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\SortArrayOfNumbers\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

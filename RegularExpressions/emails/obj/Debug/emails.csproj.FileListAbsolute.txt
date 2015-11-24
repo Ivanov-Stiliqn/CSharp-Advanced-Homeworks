@@ -1,0 +1,1 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\RegularExpressions\emails\bin\Debug\emails.exe.config

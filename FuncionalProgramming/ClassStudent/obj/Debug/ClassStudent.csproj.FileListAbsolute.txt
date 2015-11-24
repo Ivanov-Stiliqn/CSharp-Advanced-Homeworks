@@ -1,0 +1,6 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ClassStudent\bin\Debug\ClassStudent.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ClassStudent\obj\Debug\ClassStudent.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ClassStudent\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ClassStudent\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ClassStudent\obj\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ClassStudent\obj\Debug\ClassStudent.pdb

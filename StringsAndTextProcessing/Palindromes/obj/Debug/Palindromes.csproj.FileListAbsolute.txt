@@ -1,0 +1,5 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\Palindromes\obj\Debug\Palindromes.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\StringsAndTextProcessing\Palindromes\obj\Debug\Palindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\AboveAll\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\PhoneBook\obj\Debug\PhoneBook.pdb
